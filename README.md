@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Anusha Phaniraj</h1>
-- 🌱 I’m currently learning **python, SQL**
+- 🌱 I’m currently learning python, SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
